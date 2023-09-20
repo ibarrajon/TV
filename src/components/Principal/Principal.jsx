@@ -10,6 +10,8 @@ import logo_espne from '../assets/ESPN_Extra.png'
 import logo_directv from '../assets/DirecTV_Sports.png'
 import logo_star from '../assets/Starplus.png'
 import logo_tvpub from '../assets/TV_Publica.png'
+import logo_telefe from '../assets/Telefe.png'
+import logo_qmusica from '../assets/QMusica.png'
 // {
 //   nombre: "",
 //   logo: logo_,
@@ -19,6 +21,20 @@ import logo_tvpub from '../assets/TV_Publica.png'
 // }
 
 const videos = [
+  {
+    nombre: "Q Musica",
+    logo: logo_qmusica,
+    URL1: 'https://embed13.alandesk.life/cvatt.html?get=UXVpZXJvX0hE',
+    URL2: 'https://blackface.world/dtvpl.html?id=1183',
+    URL3: '',
+  },
+  {
+    nombre: "Telefe",
+    logo: logo_telefe,
+    URL1: 'https://embed13.alandesk.life/cvatt.html?get=VGVsZWZlSEQ=&amp;lang=1',
+    URL2: 'https://blackface.world/dtvpl.html?id=1216',
+    URL3: '',
+  },
   {
     nombre: "ESPN Premium",
     logo: logo_espnp,
@@ -33,6 +49,7 @@ const videos = [
     URL2: 'https://tucanaldeportivo.com/tntsports.php',
     URL3: 'https://tutele1.net/online.php?a=149',
   },
+
   {
     nombre: "TyC Sports",
     logo: logo_tyc,
@@ -64,14 +81,14 @@ const videos = [
   {
     nombre: "ESPN Extra",
     logo: logo_espne,
-    URL1: '11',
-    URL2: '',
+    URL1: 'https://thaifree.asia/dtvpl2.html?id=1107',
+    URL2: 'https://embed57.thaidomains.co.in/cvatt.html?get=RVNQTkhE',
     URL3: '',
   },
   {
     nombre: "DirectTV",
     logo: logo_directv,
-    URL1: '11',
+    URL1: 'https://thaifree.asia/dtvpl2.html?id=1057&lang=1',
     URL2: '',
     URL3: '',
   },
@@ -85,8 +102,8 @@ const videos = [
   {
     nombre: "TV Publica",
     logo: logo_tvpub,
-    URL1: '11',
-    URL2: '',
+    URL1: 'https://thaifree.asia/dtvpl2.html?id=1156',
+    URL2: 'https://embed57.thaidomains.co.in/cvatt.html?get=Q2FuYWw3',
     URL3: '',
   }
 ];
