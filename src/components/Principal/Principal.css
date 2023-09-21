@@ -5,9 +5,6 @@
 }
 
 .ver-mas-button {
-  /* margin-top: 20px;
-  padding: 10px 20px;
-  font-size: 16px; */
   margin-bottom: 1vh;
   width: 15vh;
 }
@@ -92,5 +89,25 @@ button:hover{
 
   .video-item img{
     width: 40%;
+  }
+}
+
+@media (min-width: 1500px) {
+  .video-item{
+    width: 40vh; 
+  height: 30vh;
+  padding: 1vh;
+
+  }
+
+  button{
+    width: 15vh;
+    font-size: 2vh;
+    padding: 1vh 1vh;
+  }
+
+  .video-item img{
+    margin-bottom: 3vh;
+    width: 50%;
   }
 }

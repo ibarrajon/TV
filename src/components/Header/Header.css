@@ -10,3 +10,9 @@ h1{
     font-size: 2vh;
   }
 }
+
+@media (min-width: 1500px) {
+  h1{
+    font-size: 4vh;
+  }
+}

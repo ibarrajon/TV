@@ -12,19 +12,12 @@ import logo_star from '../assets/Starplus.png'
 import logo_tvpub from '../assets/TV_Publica.png'
 import logo_telefe from '../assets/Telefe.png'
 import logo_qmusica from '../assets/QMusica.png'
-// {
-//   nombre: "",
-//   logo: logo_,
-//   URL1: '',
-//   URL2: '',
-//   URL3: '',
-// }
 
 const videos = [
   {
     nombre: "Q Musica",
     logo: logo_qmusica,
-    URL1: 'https://embed13.alandesk.life/cvatt.html?get=UXVpZXJvX0hE',
+    URL1: 'https://embed13.alandesk.life/cvatt.html?get=UXVpZXJvX0hE&jwsource=cl',
     URL2: 'https://blackface.world/dtvpl.html?id=1183',
     URL3: '',
   },
