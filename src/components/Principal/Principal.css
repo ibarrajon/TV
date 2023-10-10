@@ -94,3 +94,22 @@ button:hover{
     width: 40%;
   }
 }
+
+@media only screen and (min-width: 1500px){
+  .video-item{
+    padding: 0.5vh;
+    margin: 0.5vh;
+    width: 25vh; 
+    height: 20vh;
+  }
+
+  button{
+    width: 20vh;
+    font-size: 2vh;
+    padding: 0.2vh 1vh;
+  }
+
+  .video-item img{
+    width: 60%;
+  }
+}
