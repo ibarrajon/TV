@@ -8,17 +8,9 @@ import logo_espn2 from '../assets/ESPN2.png'
 import logo_espn3 from '../assets/ESPN3.png'
 import logo_espne from '../assets/ESPN_Extra.png'
 import logo_directv from '../assets/DirecTV_Sports.png'
-import logo_star from '../assets/Starplus.png'
 import logo_tvpub from '../assets/TV_Publica.png'
 import logo_telefe from '../assets/Telefe.png'
 import logo_qmusica from '../assets/QMusica.png'
-// {
-//   nombre: "",
-//   logo: logo_,
-//   URL1: '',
-//   URL2: '',
-//   URL3: '',
-// }
 
 const videos = [
   {
@@ -88,13 +80,6 @@ const videos = [
     nombre: "DirectTV",
     logo: logo_directv,
     URL1: 'https://thaifree.asia/dtvpl2.html?id=1057&lang=1',
-    URL2: '',
-    URL3: '',
-  },
-  {
-    nombre: "Star Plus",
-    logo: logo_star,
-    URL1: '11',
     URL2: '',
     URL3: '',
   },
